@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  ✨ Since 2003 (donde debí haber aprendido a programar)<br>
+  ✨ Since 2003<br>
   📚 Actualmente estoy aprendiendo HTML, CSS, y JavaScript<br>
   🎲 Mi café sabe mejor cuando el código compila ☕ ...</p>
 
